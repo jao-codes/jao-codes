@@ -1,5 +1,5 @@
 <a href="https://github.com/FelipeGabrielH">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jao-codes&show_icons=true&theme=dark&"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jao-codes&theme=dark&"/>
 
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jao-codes&theme=dark&"/>
 
