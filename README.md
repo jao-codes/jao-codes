@@ -1,5 +1,5 @@
 <a href="https://github.com/jao-codes">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=jaocodes&show_icons=true&theme=dark&"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=jao-codes&show_icons=true&theme=dark&"/>
 
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jao-codes&layout=compact&langs_count=11&theme=dark"/>
 
