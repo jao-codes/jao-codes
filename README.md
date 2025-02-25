@@ -7,7 +7,7 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Conhecimentos</h1>
-    
+    <img src="https://github.com/user-attachments/assets/79395ced-1441-4aac-9ec7-fd84701c5962" height="80rem">
    </div>
 
 
