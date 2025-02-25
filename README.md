@@ -1,7 +1,7 @@
 <a href="https://github.com/jao-codes">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=João Ritzke&show_icons=true&theme=dark&"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=João-Ritzke&show_icons=true&theme=dark&"/>
 
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=João Ritzke&layout=compact&langs_count=11&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=João-Ritzke&layout=compact&langs_count=11&theme=dark"/>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
